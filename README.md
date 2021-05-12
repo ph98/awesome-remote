@@ -32,4 +32,10 @@ any suggestions are welcome.
 #### more resource:
 - https://weworkremotely.com/remote-work-resources
 - https://usefyi.com/remote-work-resources/
-- 
+
+#### some other GitHub repo:
+- https://github.com/lenazun/working-remotely/blob/master/ideas.md
+- https://github.com/hugo53/awesome-RemoteWork#awesome-remote-work
+
+
+
